@@ -23,3 +23,4 @@ def students_from_city(db, city):
 # conn = sqlite3.connect('data/school.sqlite')
 # db = conn.cursor()
 # print(students_from_city(db, 'Paris'))
+# conn.close()
